@@ -22,6 +22,15 @@ segment.ipynb - задача сегментации изображений
 - подготовка маски
 - эксперименты с вариантами сети PSP, UNET
 
-reporForGal.sql, 2_19_Витрины_данных.ipynb, Up__36_нормализация_данных.ipynb
+reporForGal.sql, 2_19_Витрины_данных.ipynb, Up__36_sql.ipynb
 - SQL, примеры
 
+P_16_VAE.ipynb
+ - Вариоционнфй кощдировщик аудио
+ 
+P_30_Pytorch_segm.ipynb
+- Сегментация на базу улиц Лондона  Pytorch
+Add files via upload
+
+Up_30_Style.ipynb
+- Изменения стиля с помощью предобученной модели
