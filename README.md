@@ -21,16 +21,17 @@ segment.ipynb - задача сегментации изображений
 - выборка данных из "ms koko"
 - подготовка маски
 - эксперименты с вариантами сети PSP, UNET
-
-reporForGal.sql, 2_19_Витрины_данных.ipynb, Up__36_sql.ipynb
-- SQL, примеры
-
+   
 P_16_VAE.ipynb
  - Вариоционный кодировщик аудио
  
 P_30_Pytorch_segm.ipynb
 - Сегментация на базе улиц Лондона,  Pytorch
-Add files via upload
 
 Up_30_Style.ipynb
 - Изменения стиля с помощью предобученной модели
+
+SQL
+- reporForGal.sql
+- 2_19_Витрины_данных.ipynb
+- Up__36_sql.ipyn
