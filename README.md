@@ -38,3 +38,4 @@ d1816_ - Дипломная работа.
 - Обучение с генератором изображений. 
  
 hello.rar - Демонстрация работы модели на Django (заготовка)
+https://github.com/SuhoparovYD/recognition/tree-save/main/README.md
